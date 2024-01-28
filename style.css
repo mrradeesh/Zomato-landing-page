@@ -429,9 +429,6 @@ padding: 3rem 0;
 .footer_section_logo{
     width:100px;
 }
-.section_link_container {
-    border: 2px solid red;
-}
 .disclaimer{
     width: 95%;
     color: gray;
